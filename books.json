@@ -1,0 +1,100 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "language": "English",
+      "genre": "Fiction",
+      "description": "A story about the Jazz Age in the US.",
+      "rating": 4.5
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "English",
+      "genre": "Dystopian",
+      "description": "A dystopian novel about totalitarianism.",
+      "rating": 4.7
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "language": "Spanish",
+      "genre": "Magic Realism",
+      "description": "The story of the Buendía family over generations.",
+      "rating": 4.6
+    },
+    {
+        "title":"Kanoora Heggadati",
+        "author":"Kuvempu",
+        "language":"Kannada",
+        "genre":"Novel",
+        "description":"A story that takes place in malendadu.",
+        "rating":"4.9"
+    },
+    {
+        "title":"Malegalalli Madhumagalu",
+        "author":"Kuvempu",
+        "language":"Kannada",
+        "genre":"Novel",
+        "description":"A fictional love story that happens in malenadu.",
+        "rating":"4.8"
+    },
+    {
+        "title":"Annana Nenapu",
+        "autohr":"Poorna Chandra Tejaswi",
+        "language":"Kannada",
+        "genre":"Motivational",
+        "description":"A story about how Kuvempu as a father appeared to his children.",
+        "rating":"4.5"
+    },
+    {
+        "title":"Mookajjiya Kanasugalu",
+        "author":"Shivaram Karanth",
+        "language":"Kannada",
+        "genre":"Novel",
+        "description":"A story about a widow grand mother who can see the future ans past.",
+        "rating":"4.7"
+    },
+    {
+        "title":"Sri Ramayana Darshanam",
+        "author":"Kuvempu",
+        "language":"Kannada",
+        "genre":"Epic",
+        "description":"A modern version of Ramayana.",
+        "rating":"4.9"
+    },
+    {
+        "title":"Bhava",
+        "author":"Kuvempu",
+        "language":"Kannada",
+        "genre":"Poetry",
+        "description":"A collection of poems.",
+        "rating":"4.8"
+    },
+    {
+        "title":"Bellandoorina Narabhakshaka",
+        "author":"Pooranachandra Tejaswi",
+        "language":"Kannada",
+        "genre":"Wildlife and hunting",
+        "description":"A story about the ferrocious tiger of Bellandooru.",
+        "rating":"4.7"
+    },
+    {
+        "title":"Chidambara Rahasya",
+        "author":"Poorna Chandra Tejaswi",
+        "language":"Kannada",
+        "genre":"Mystery",
+        "description":"A story about a mystery that happens in a village.",
+        "rating":"4.6"
+    },
+    {
+        "title":"Jalahalliya Kurka",
+        "author":"Poorna Chandra Tejaswi",
+        "language":"Kannada",
+        "genre":"Wildlife and hunting",
+        "description":"A story about a wild Leopard in the Jalahalli village.",
+        "rating":"4.5"
+    }
+
+  ]
+  
