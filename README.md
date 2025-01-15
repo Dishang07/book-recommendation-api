@@ -1,4 +1,4 @@
-**README**
+**Book Recommendation API**
 
 **Description:**
 This Book Recommendation API is built using Node.js and Express.js. It provides book recommendations based on the user's preferences, including:
